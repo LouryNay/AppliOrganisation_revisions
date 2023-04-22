@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Study Planning</string>
+    <string name="home_activity_tile">Accueil</string>
+    <string name="main_activity_title">Authentification</string>
+    <string name="register_activity_title">Créer un compte</string>
+    <string name="cours_activity_title">Cours</string>
+    <string name="exam_activity_title">Examens</string>
+    <string name="r_visions_du_jour">Révisions du jour</string>
+    <string name="_100">100</string>
+    <string name="ajoutez_les">Ajoutez les</string>
+    <string name="_15">15</string>
+    <string name="votre_progression">Votre progression</string>
+    <string name="vous_avez_de_nouveaux_cours">Vous avez de nouveaux cours ?</string>
+    <string name="sep">/</string>
+    <string name="_100e">100</string>
+    <string name="xp">xp</string>
+</resources>
